@@ -7,7 +7,7 @@ const AboutPage = () => {
     <div className="min-h-screen bg-gray-100 flex flex-col">
       <Header showSearch={false} />
       <main className="container mx-auto py-8 flex-grow">
-        <h1 className="text-3xl font-bold mb-6">About CloudMart</h1>
+        <h1 className="text-3xl font-bold mb-6">About Cloud-Mart</h1>
         <div className="bg-white rounded-lg shadow-md p-6">
           <h2 className="text-2xl font-semibold mb-4">This Project</h2>
           <p className="mb-4">
