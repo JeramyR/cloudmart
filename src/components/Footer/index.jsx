@@ -6,7 +6,7 @@ const Footer = () => (
     <div className="container mx-auto px-4">
       <div className="flex flex-wrap justify-between items-center">
         <div className="w-full sm:w-auto mb-4 sm:mb-0">
-          <h3 className="text-xl font-bold">Store Mart</h3>
+          <h3 className="text-xl font-bold">CloudMart</h3>
           <p className="text-sm text-gray-400">Your AI-powered shopping destination</p>
         </div>
         <div className="w-full sm:w-auto">
@@ -21,7 +21,7 @@ const Footer = () => (
         </div>
       </div>
       <div className="mt-4 pt-4 border-t border-gray-700 text-center text-sm text-gray-400">
-        <p>&copy; 2025 Store Mart. All rights reserved.</p>
+        <p>&copy; 2024 CloudMart. All rights reserved.</p>
       </div>
     </div>
   </footer>
